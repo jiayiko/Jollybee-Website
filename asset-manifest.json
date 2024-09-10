@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/jollybee-website/static/css/main.4351fda2.css",
+    "main.js": "/jollybee-website/static/js/main.9863eb56.js",
+    "static/js/453.df65aa80.chunk.js": "/jollybee-website/static/js/453.df65aa80.chunk.js",
+    "static/media/photos_right.png": "/jollybee-website/static/media/photos_right.53bba0edbf5dfcd86714.png",
+    "static/media/photos_left.png": "/jollybee-website/static/media/photos_left.243573133b250cf6ea77.png",
+    "static/media/icpcwf.jpg": "/jollybee-website/static/media/icpcwf.f7eb568ca48e984457d1.jpg",
+    "static/media/jalansetapak3.png": "/jollybee-website/static/media/jalansetapak3.7b34c3b4444bd558e0a3.png",
+    "static/media/jalansetapak.png": "/jollybee-website/static/media/jalansetapak.58c72cec3a925e3e7151.png",
+    "static/media/jalansetapak2.png": "/jollybee-website/static/media/jalansetapak2.70854c3b9d22f2933319.png",
+    "static/media/cp4.jpg": "/jollybee-website/static/media/cp4.62b4b0b837755e49aa38.jpg",
+    "static/media/jollybeelogo.png": "/jollybee-website/static/media/jollybeelogo.1153fc9b44f43fb06727.png",
+    "static/media/pkd.jpg": "/jollybee-website/static/media/pkd.251287e317b4aec2c8dd.jpg",
+    "static/media/cp2.jpg": "/jollybee-website/static/media/cp2.bbd4d65f2d0c03f7aaeb.jpg",
+    "static/media/poinlebah.png": "/jollybee-website/static/media/poinlebah.49ad3e947b5d180598d6.png",
+    "static/media/lebahfaq.png": "/jollybee-website/static/media/lebahfaq.d00033133f21f306a832.png",
+    "static/media/lebahcp3.png": "/jollybee-website/static/media/lebahcp3.f2c173cb8bebd727c4a2.png",
+    "static/media/lebahcp2.png": "/jollybee-website/static/media/lebahcp2.292c7583d399a814d2bd.png",
+    "static/media/usaco.png": "/jollybee-website/static/media/usaco.cf2deb36895f7d965396.png",
+    "static/media/hexagon.png": "/jollybee-website/static/media/hexagon.830f71fc3469b5286db8.png",
+    "static/media/jejaklebahvertikal.png": "/jollybee-website/static/media/jejaklebahvertikal.ce47e258d1e88109fdb5.png",
+    "static/media/lebahcp.png": "/jollybee-website/static/media/lebahcp.3e1c466bc9dbfa4f4127.png",
+    "static/media/jejaklebah.png": "/jollybee-website/static/media/jejaklebah.6f45807fca3b3e260724.png",
+    "static/media/jejaklebahvertikal2.png": "/jollybee-website/static/media/jejaklebahvertikal2.a506734c15cdab9af736.png",
+    "static/media/atcoder_logo.png": "/jollybee-website/static/media/atcoder_logo.8864100aa33175aa319c.png",
+    "static/media/logo.svg": "/jollybee-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jollybee-website/index.html",
+    "main.4351fda2.css.map": "/jollybee-website/static/css/main.4351fda2.css.map",
+    "main.9863eb56.js.map": "/jollybee-website/static/js/main.9863eb56.js.map",
+    "453.df65aa80.chunk.js.map": "/jollybee-website/static/js/453.df65aa80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4351fda2.css",
+    "static/js/main.9863eb56.js"
+  ]
+}
