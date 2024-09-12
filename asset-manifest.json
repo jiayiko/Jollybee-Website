@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Jollybee-Website/static/css/main.6cc2ba21.css",
-    "main.js": "/Jollybee-Website/static/js/main.ef0c546d.js",
+    "main.css": "/Jollybee-Website/static/css/main.44794f5b.css",
+    "main.js": "/Jollybee-Website/static/js/main.5e922736.js",
     "static/js/453.df65aa80.chunk.js": "/Jollybee-Website/static/js/453.df65aa80.chunk.js",
     "static/media/photos_right.png": "/Jollybee-Website/static/media/photos_right.53bba0edbf5dfcd86714.png",
     "static/media/photos_left.png": "/Jollybee-Website/static/media/photos_left.243573133b250cf6ea77.png",
@@ -29,12 +29,12 @@
     "static/media/atcoder_logo.png": "/Jollybee-Website/static/media/atcoder_logo.8864100aa33175aa319c.png",
     "static/media/logo.svg": "/Jollybee-Website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Jollybee-Website/index.html",
-    "main.6cc2ba21.css.map": "/Jollybee-Website/static/css/main.6cc2ba21.css.map",
-    "main.ef0c546d.js.map": "/Jollybee-Website/static/js/main.ef0c546d.js.map",
+    "main.44794f5b.css.map": "/Jollybee-Website/static/css/main.44794f5b.css.map",
+    "main.5e922736.js.map": "/Jollybee-Website/static/js/main.5e922736.js.map",
     "453.df65aa80.chunk.js.map": "/Jollybee-Website/static/js/453.df65aa80.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cc2ba21.css",
-    "static/js/main.ef0c546d.js"
+    "static/css/main.44794f5b.css",
+    "static/js/main.5e922736.js"
   ]
 }
